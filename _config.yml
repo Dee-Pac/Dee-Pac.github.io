@@ -1,0 +1,66 @@
+# Site
+repository: Dee-Pac/Dee-Pac.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Deepak Chandramouli
+title: Engineering Lead at Data platform product Engineering
+company: PayPal
+email: mcdeepak@gmail.com
+# website: www.github.com/Dee-Pac/
+
+# Social links
+# twitter_username: None
+github_username:  Dee-Pac
+# dribbble_username: None
+# facebook_username: None
+# flickr_username: None
+# instagram_username: None
+linkedin_username: deepakmc
+# pinterest_username: None
+# youtube_username: None
+# googleplus_username: +None
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  - 15 years of applied experience in various roles of analytics.
+  - Passionate Engineering leader; built High-performance teams.
+  - Strong Individual Contributor & Continuous learner.
+  - Customer Champion; strive for Amazing user experience.
+  - Open Source Enthusiast & Innovation obsessed.
+  - I am most skilled in: <mark>A</mark> and <mark>BBBB/mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Big Data & Software Engineering, my other interests and hobbies are:
+   - Running
+   - Amateur Photographer
+   - Always on the lookup for Best Briyani shacks in town
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: Dee-Pac/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+darkmode: true
